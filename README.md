@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sieg-zeon&theme=synthwave&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sieg-zeon&theme=synthwave&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=sieg-zeon&theme=synthwave&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
